@@ -1,2 +1,0 @@
-test1
-Premier fichier de test.
